@@ -71,23 +71,29 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 ### 🎯 Goals 2025
 
+<!-- Glitch Hacker Style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=ffb6c1,ff69b4,db2777&height=150&section=header&text=🎯%20My%20Goals%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=110&section=header&text=💻%20My%20Goals%202025&fontSize=30&fontColor=39FF14&animation=twinkling" />
+</p>
+
+<!-- Coding Girl or Tech GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="350" />
 </p>
 
 <h3 align="center">✨ Shruthi’s Tech Dreams ✨</h3>
 
 <ul align="center">
-  <li>💻 Master Frontend Development (React, Tailwind, Responsive UI)</li>
-  <li>🤖 Build creative AI projects using Python & ML libraries</li>
-  <li>🌐 Contribute to open source with cool UI/UX improvements</li>
-  <li>🚀 Get a top-tier tech internship & grow as a developer</li>
-  <li>🌸 Keep learning, exploring, failing & leveling up!</li>
+  <li>💻 Master React & Tailwind with live UIs</li>
+  <li>🤖 Build fun AI tools using Python & ML</li>
+  <li>🌍 Contribute to cool Open Source designs</li>
+  <li>🚀 Land my first awesome tech internship</li>
+  <li>🌸 Keep leveling up with curiosity & joy!</li>
 </ul>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Code%20%7C%20Grow-ff69b4?style=for-the-badge&logo=leaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20+%20AI-bfdbfe?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20+%20AI-93c5fd?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 
