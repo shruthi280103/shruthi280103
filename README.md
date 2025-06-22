@@ -70,27 +70,27 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 
 ### 🎯 Goals 2025
-<h2 align="center">🎯 Goals 2025</h2>
-
+<!-- 🌈 Gradient Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Shruthi's+Tech+Dreams+for+2025;Frontend+%2B+AI+%2F+Creative+Projects+%2F+Internship+Goals" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=tada&color=9333ea,8b5cf6,6366f1&height=150&section=header&text=Shruthi's+Goals+2025&fontSize=40&fontColor=ffffff" />
 </p>
 
+<!-- 🦄 Unicorn GIF Animation -->
 <p align="center">
-  <img src="https://media.tenor.com/images/ed5f1c5db600082762454f9b823eec06/tenor.gif" width="160" alt="Dancing unicorn" />
+  <img src="https://media.tenor.com/images/9c47c3f4f1f0f10d23cb12e8d0ee865d/tenor.gif" width="180" alt="Unicorn Dancing"/>
 </p>
 
-<div align="center">
+<!-- 🌟 Colored Goals List -->
+<h3 align="center"><span style="color:#FF69B4">🎯 My 2025 Tech Goals</span></h3>
 
-| 🪄 Goal | ✨ Description |
-|--------|----------------|
-| 💻 **Master React & Tailwind** | Build stunning responsive UIs |
-| 🤖 **Build AI Projects** | Using Python, ML & APIs |
-| 🚀 **Secure a top tech internship** | With real-world frontend skills |
-| 🎨 **Create a creative portfolio** | That reflects your personality |
-| 🌸 **Stay consistent** | Keep glowing & learning daily |
+<ul align="center">
+  <li><span style="color:#FBBF24">💻 Master <b>React & Tailwind</b> to build stunning UIs</span></li>
+  <li><span style="color:#22D3EE">🤖 Build <b>AI projects</b> using Python & ML</span></li>
+  <li><span style="color:#10B981">🚀 Secure a top tech internship</span></li>
+  <li><span style="color:#E879F9">🎨 Create a creative portfolio</span></li>
+  <li><span style="color:#F472B6">🌸 Stay consistent, keep learning & glowing!</span></li>
+</ul>
 
-</div>
 
 ---
 ## 📬 Connect With Me
