@@ -8,11 +8,11 @@
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" /><p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code+Like-A+Queen-EC4899?style=for-the-badge&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goal-Be%20a%20Future%20Tech%20Leader-60A5FA?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 <p align="center">
-  👑 Building apps with elegance • ✨ Frontend + Logic + UX magic
+  💭 Dreaming big • 🚀 Learning faster • 💪 Growing stronger daily
 </p>
 
 
