@@ -8,11 +8,11 @@
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" /><p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Interest-AI%20%7C%20ML%20%7C%20Neural%20Nets-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code+Like-A+Queen-EC4899?style=for-the-badge&logo=star&logoColor=white" />
 </p>
 
 <p align="center">
-  🤖 Exploring intelligent systems • 🧠 Learning to build smart solutions
+  👑 Building apps with elegance • ✨ Frontend + Logic + UX magic
 </p>
 
 
