@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff80b5,9089fc&height=180&section=header&text=Hey%20there!%20I'm%20Shruthi%20🚀&fontSize=35&fontColor=ffffff&fontAlign=70&desc=Aspiring%20Developer%20%7C%20Web%20%26%20AI%20Enthusiast&descAlign=70&descSize=18&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&fontColor=00FF00&height=180&section=header&text=Hello%20World%20from%20Shruthi%20👩‍💻&fontSize=35&fontAlign=60" />
 </p>
-
 
 
 <h1 align="center">Hi there, I'm Shruthi 👋</h1>
