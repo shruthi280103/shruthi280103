@@ -7,14 +7,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" />
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-CSE%20Student-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Dream%20Builder-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white" />
 </p>
 
 <p align="center">
-  💖 Building Web Apps • 🤖 Exploring AI • 🌱 Always Learning
+  ✨ Turning Ideas into Code • 💡 Problem Solver • 🌈 Creative Thinker
 </p>
+
 
 
 ## 💫 About Me
