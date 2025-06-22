@@ -70,19 +70,27 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 
 ### 🎯 Goals 2025
+<!-- Typing animation header (Goals) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=🎯+My+Goals+2025;💻+Frontend+%7C+AI+%7C+Dream+Big;✨+Shruthi+is+Leveling+Up!" />
+</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=150&section=header&text=🎯%20Shruthi's%20Goals%202025&fontSize=30&fontColor=000000&animation=fadeIn" />
-</p>
-<h3 align="center">✨ My Tech Dreams ✨</h3>
+<!-- Goals List -->
+<h3 align="center">🌟 Shruthi’s Tech Goals 🌟</h3>
 
 <ul align="center">
-  <li>💻 Become strong in Frontend: React + Tailwind CSS</li>
-  <li>🤖 Explore AI projects using Python + ML</li>
-  <li>🛠️ Build unique projects with cool UI</li>
-  <li>🚀 Grab internship in tech 💼</li>
-  <li>🌸 Keep learning every day, stay consistent!</li>
+  <li>💻 Master Responsive Frontend (ReactJS + Tailwind)</li>
+  <li>🤖 Build creative AI/ML tools with Python</li>
+  <li>🌍 Collaborate on open source & UI design</li>
+  <li>🚀 Secure an awesome internship</li>
+  <li>🌸 Never stop learning & exploring!</li>
 </ul>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Code%20%7C%20Grow-ff69b4?style=for-the-badge&logo=leaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20+%20AI-00ffcc?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
 
 
  
