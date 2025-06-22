@@ -9,9 +9,9 @@
 </p>
 
 
+<h3 align="center">👩‍🎓 Computer Science Student @ ACE College</h3>
 <p align="center">
-  <b>Computer Science Student @ ACE College</b><br>
-  Passionate about Web Development, AI, and building creative solutions 💡
+💡 Passionate about <b>Web Development</b>, <b>AI</b>, and building creative tech solutions that make life easier and smarter. 🚀
 </p>
 
 ---
