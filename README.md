@@ -99,12 +99,13 @@ fun_fact: "I love challenges and working in teams! 💪"
 ⭐️ Thank you for visiting my profile!
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1vOWlyY3RsaGhsOTZsbG5kcTg2dGNsdmJoM3VsbWtsbHBvZXlqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aS1ZRnZ1yU1Nq/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting! 🌸<br/>Feel free to connect & drop a ⭐ if you liked it!</b>
+  <b>Thanks for visiting! 🌸<br>Feel free to connect & drop a ⭐ if you liked it!</b>
 </p>
+
 
 
 
