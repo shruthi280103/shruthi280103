@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4ade80,22d3ee&height=140&section=header&text=Shruthi&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6,9333ea&height=200&section=header&text=Shruthi%20👩‍💻&fontSize=38&fontAlign=50&fontColor=ffffff&animation=twinkling" />
 </p>
+
 
 <p align="center">
   <b>Computer Science Student @ ACE College</b><br>
