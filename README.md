@@ -72,34 +72,26 @@ fun_fact: "I love challenges and working in teams! 💪"
 ### 🎯 Goals 2025
 <h2 align="center">🎯 Goals 2025</h2>
 
-<!-- Animated Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Shruthi's+2025+Tech+Dreams;Frontend+%26+AI+Dev+Goals;Always+Learning+%F0%9F%8C%9F;Glow+Up+%F0%9F%92%A1"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Shruthi's+Tech+Dreams+for+2025;Frontend+%2B+AI+%2F+Creative+Projects+%2F+Internship+Goals" alt="Typing SVG" />
 </p>
 
-<!-- Animated Side Background using Lottie -->
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Glowing tech girl"/>
+</p>
+
 <div align="center">
-  <img src="https://lottie.host/f2503d41-7781-49f2-bd6a-2a5f1e1bfc46/DztJJUlXlN.json" width="200" height="200"/>
+
+| 💡 Goal | 🌟 Description |
+|--------|----------------|
+| 💻 **Master React & Tailwind** | Build stunning responsive UIs |
+| 🤖 **Build AI Projects** | Using Python, ML & APIs |
+| 🚀 **Crack a top tech internship** | With real-world frontend skills |
+| 🎨 **Creative Portfolio** | Aesthetic personal dev site |
+| 🌸 **Stay Consistent** | Keep glowing & learning daily |
+
 </div>
 
-<!-- Goals List with Emoji and Bold -->
-<div align="center">
-  <table style="font-size: 18px;">
-    <tr><td>💻 <b>Master React & Tailwind</b> to build stunning UIs</td></tr>
-    <tr><td>🤖 <b>Build AI projects</b> using Python, ML & APIs</td></tr>
-    <tr><td>🚀 <b>Crack a top tech internship</b> with real-world projects</td></tr>
-    <tr><td>🎨 <b>Create aesthetic portfolios</b> that reflect personality</td></tr>
-    <tr><td>🌸 <b>Stay consistent</b>, keep glowing & learning daily!</td></tr>
-  </table>
-</div>
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=80&section=footer"/>
-</div>
-
-
- 
 
 ---
 ## 📬 Connect With Me
