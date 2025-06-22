@@ -70,21 +70,23 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 
 
+
 # 🎯 Goals 2025
 
 <p align="center">
-  <!-- reliable unicorn animation -->
-  <img src="https://media.tenor.com/CM8y2e6XURcAAAAC/unicorn-dance.gif" width="120" alt="Unicorn Dance"/>
+  <!-- Reliable unicorn dance animation -->
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="120" alt="Unicorn Dance"/>
 </p>
 
 <p align="center">
-  <!-- each goal as a static badge with its own color -->
+  <!-- Each goal as its own badge -->
   <img src="https://img.shields.io/badge/💻_Master_React_&_Tailwind-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/🤖_Build_AI_Projects-FFC300?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/🚀_Secure_Tech_Internship-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/🎨_Creative_Portfolio-E91E63?style=for-the-badge&logo=dribbble&logoColor=white" />
   <img src="https://img.shields.io/badge/🌸_Stay_Learning_&_Growing-F48FB1?style=for-the-badge&logo=education&logoColor=white" />
 </p>
+
 
 
 ---
