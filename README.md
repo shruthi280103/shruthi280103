@@ -9,12 +9,11 @@
 </p>
 
 
-<h3 align="center">👩‍🎓 Computer Science Student @ ACE College</h3>
-<p align="center">
-💡 Passionate about <b>Web Development</b>, <b>AI</b>, and building creative tech solutions that make life easier and smarter. 🚀
-</p>
-
----
+<blockquote align="center">
+  <h3>👩‍💻 Shruthi | CSE @ ACE College</h3>
+  Passionate about <strong>Frontend</strong>, <strong>AI/ML</strong> & <strong>Creative Web Experiences</strong> 💫  
+  <em>— “Learning, Building, and Growing Every Day.”</em>
+</blockquote>
 
 
 
