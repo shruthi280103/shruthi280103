@@ -8,9 +8,11 @@
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" /><p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-CSE%20@%20ACE%20College-10b981?style=for-the-badge&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Passion-Web%20Dev%20%26%20AI-facc15?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vibe-Creative%20&%20Curious-ec4899?style=for-the-badge&logo=sparkles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Soft%20Techie-ffc0cb?style=for-the-badge&logo=terminal&logoColor=white" />
+</p>
+
+<p align="center">
+  👩‍💻 Writing code with creativity • 🌸 Making ideas bloom in HTML & Python
 </p>
 
 ## 💫 About Me
