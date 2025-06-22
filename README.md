@@ -77,21 +77,20 @@ fun_fact: "I love challenges and working in teams! 💪"
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Glowing tech girl"/>
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="160" alt="Unicorn coding animation"/>
 </p>
 
 <div align="center">
 
-| 💡 Goal | 🌟 Description |
+| 🪄 Goal | ✨ Description |
 |--------|----------------|
 | 💻 **Master React & Tailwind** | Build stunning responsive UIs |
 | 🤖 **Build AI Projects** | Using Python, ML & APIs |
-| 🚀 **Crack a top tech internship** | With real-world frontend skills |
+| 🚀 **Crack a Top Tech Internship** | With real-world frontend skills |
 | 🎨 **Creative Portfolio** | Aesthetic personal dev site |
 | 🌸 **Stay Consistent** | Keep glowing & learning daily |
 
 </div>
-
 
 ---
 ## 📬 Connect With Me
