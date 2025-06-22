@@ -12,11 +12,22 @@
 ---
 
 ### 💫 About Me
-- 🎓 B.Tech CSE Student  
-- 💻 I love working on **web apps** and **full-stack projects**  
-- 🌱 Currently learning: ReactJS, Django, and Python  
-- 🔭 Exploring AI/ML and Open Source  
-- ✨ Always up for challenges and teamwork!
+- name: S Shruthi 
+status: B.Tech CSE Student @ ACE College
+interests:
+  - Web Development
+  - Artificial Intelligence
+  - Full-Stack Projects
+skills:
+  - Python
+  - ReactJS
+  - Django
+  - Git & GitHub
+currently_learning:
+  - Machine Learning
+  - Open Source Contributions
+fun_fact: "I love challenges and working in teams! 💪"
+
 
 ---
 
