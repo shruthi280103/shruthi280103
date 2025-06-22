@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&fontColor=00FF00&height=180&section=header&text=Hello%20World%20from%20Shruthi%20👩‍💻&fontSize=35&fontAlign=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:a855f7&height=220&section=header&text=🌟%20Shruthi%20Reddy%20%7C%20Code%20+%20Creativity%20💡&fontSize=30&fontAlign=60&fontColor=ffffff" />
 </p>
 
 
