@@ -16,28 +16,23 @@
 
 <img align="right" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="240"/>
 
-
-
-
-
-
-
 - 👋 Hi, I’m **Shruthi** — a passionate Computer Science student at **ACE Engineering College**
 - 🔭 Currently working on **web development**, exploring **AI/ML**, and contributing to **open source**
 - 🌱 Always learning something new: **ReactJS**, **Django**, and **Machine Learning**
 - 🛠️ I love building **end-to-end full-stack apps** that solve real-world problems
 - ✨ I'm enthusiastic about **clean code**, **teamwork**, and turning ideas into digital products
 - 🎯 Future Goal: To become a skilled **Software Engineer** making impactful tech for the world
-
-
-
-
 fun_fact: "I love challenges and working in teams! 💪"
 
 
 ---
 
 ### 🛠 Tech Stack
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,tailwind,linux" />
+</p>
 
 **Languages:**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
