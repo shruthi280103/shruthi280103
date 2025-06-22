@@ -6,14 +6,15 @@
 <!-- 👩‍💻 Coding Girl Aesthetic GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" />
-</p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Dream%20Builder-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-8b5cf6?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 <p align="center">
-  ✨ Turning Ideas into Code • 💡 Problem Solver • 🌈 Creative Thinker
+  🎨 Love clean UI • ⚡ ReactJS fan • 💻 Web + AI fusion
 </p>
+
 
 
 
