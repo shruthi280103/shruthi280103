@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=fca5a5,fdba74&height=200&section=header&text=Shruthi%20%F0%9F%8C%9E%20Creating%20Magic%20with%20Code&fontSize=30&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=fca5a5,fdba74&height=200&section=header&text=Shruthi%20%Code&fontSize=30&fontColor=000000&animation=fadeIn" />
 </p>
 
 <p align="center">
