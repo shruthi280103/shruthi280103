@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=450&lines=Heyy+I'm+Shruthi+💖;Frontend+Dev+%7C+CSE+Student+%F0%9F%91%9B;Welcome+to+my+space!" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&weight=800&size=26&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=console.log('Hello+World');Hi+I'm+Shruthi!;Web+Dev+%7C+AI+%7C+Coding+Love+%F0%9F%92%BB" />
+</h1>
+
  
 
 
