@@ -99,7 +99,11 @@ fun_fact: "I love challenges and working in teams! 💪"
 ⭐️ Thank you for visiting my profile!
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Drop+a+star+⭐+if+you+like+it!" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1vOWlyY3RsaGhsOTZsbG5kcTg2dGNsdmJoM3VsbWtsbHBvZXlqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aS1ZRnZ1yU1Nq/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! 🌸<br/>Feel free to connect & drop a ⭐ if you liked it!</b>
 </p>
 
 
