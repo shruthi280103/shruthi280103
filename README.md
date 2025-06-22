@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bbf7d0,100:3b82f6&height=200&section=header&text=Hi%20I'm%20Shruthi%20👋&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi there, I'm Shruthi 👋</h1>
 
 <p align="center">
