@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6,8B5CF6,60A5FA&height=200&section=header&text=Hi%20I'm%20Shruthi%20👩‍💻&fontSize=40&fontColor=ffffff&fontAlign=50&animation=fadeIn" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=420&lines=Hello+I'm+Shruthi+%F0%9F%92%BB;Welcome+to+my+Tech+World!;CSE+%7C+Frontend+%7C+Dream+Big" />
+</h1>
 
 <p align="center">
   <b>Computer Science Student @ ACE College</b><br>
