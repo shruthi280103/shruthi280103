@@ -14,7 +14,8 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="240"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
+
 
 - 👋 Hi, I’m **Shruthi** — a passionate Computer Science student at **ACE Engineering College**
 - 🔭 Currently working on **web development**, exploring **AI/ML**, and contributing to **open source**
