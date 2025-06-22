@@ -71,18 +71,20 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 ### 🎯 Goals 2025
 
+<!-- 🔥 Fire-style Goals Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,F472B6,C084FC&height=120&section=header&text=🎯%20My%20Goals&fontSize=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=fire&color=F472B6,D946EF,9333EA&height=100&section=header&text=🔥%20GOALS%20🔥&fontSize=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<!-- 🔡 Typing Text Animated Goals -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=✨+Master+Frontend+ReactJS+Skills;🤖+Learn+and+Build+AI+Projects;💻+Contribute+to+Open+Source;🚀+Land+My+Dream+Tech+Internship;🌈+Keep+Growing+and+Glowing!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&duration=3500&pause=1000&color=FF00CC&center=true&vCenter=true&multiline=true&width=700&lines=✨+Build+clean+and+creative+frontend+UIs;🤖+Create+AI-powered+tools+%26+mini+projects;🌐+Contribute+to+Open+Source+that+matters;🚀+Land+my+first+awesome+Tech+Internship;🌟+Learn,+Fail,+Level+Up+Daily" />
 </p>
 
+<!-- 🌈 Stylish Footer Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Growth-Mindset-ffb6c1?style=for-the-badge&logo=sparkles&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Full%20Stack%20%26%20AI-bfdbfe?style=for-the-badge&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vibes-Positive%20+%20Productive-f0abfc?style=for-the-badge&logo=magic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shruthi's%20Vibe-Code%20x%20Glow-FF61C9?style=for-the-badge&logo=rainbow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth-Focused%20%7C%20Creative%20%7C%20Courageous-9333EA?style=for-the-badge&logo=fire&logoColor=white" />
 </p>
 
 
