@@ -1,12 +1,12 @@
-<!-- 🌌 Animated Coding Girl Background -->
+<!-- 🌸 Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,F472B6,C084FC&height=200&section=header&text=Hi%20I'm%20Shruthi%20💖&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<!-- 👩‍💻 Coding Girl Aesthetic GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" />
 </p>
-
-<!-- 💖 Typing Text With Your Name: Shruthi -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=420&lines=Hello,+I'm+Shruthi+💖;Frontend+Dev+%7C+CSE+Student+%7C+AI+Lover;Let’s+Build+Something+Awesome!" />
-</h1>
 
 
 <p align="center">
