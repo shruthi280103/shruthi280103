@@ -17,6 +17,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240"/>
 
 
+
 - 👋 Hi, I’m **Shruthi** — a passionate Computer Science student at **ACE Engineering College**
 - 🔭 Currently working on **web development**, exploring **AI/ML**, and contributing to **open source**
 - 🌱 Always learning something new: **ReactJS**, **Django**, and **Machine Learning**
