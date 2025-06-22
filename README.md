@@ -71,19 +71,14 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 ### 🎯 Goals 2025
 
-<!-- Animated heading -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,F472B6,C084FC&height=120&section=header&text=Shruthi's%20Goals%20✨&fontSize=30&fontColor=ffffff&animation=twinkling" />
+  <img src="https://img.shields.io/badge/My_Goals-Tech%20Princess%20In%20Progress-%23EC4899?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
-<!-- Clean goals list -->
-<h3 align="center">Here’s what I’m working toward:</h3>
+<p align="center">
+  🎨 UI Wizard • 🤖 AI Dreamer • ✨ Growth Mindset • 🚀 Career Focused
+</p>
 
-<ul>
-  <li>💻 Becoming confident in Frontend Dev (ReactJS + UI magic)</li>
-  <li>🧠 Learning AI & ML concepts with fun mini-projects</li>
-  <li>🌐 Contributing to open-source & building in public</li>
-  <li>🚀 Securing a dream tech internsh
 
  
 
