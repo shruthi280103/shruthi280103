@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0f2027,203a43,2c5364&height=210&section=header&text=Shruthi%20⚡%20Code%20%7C%20Create%20%7C%20Explore&fontSize=28&fontColor=ffffff&fontAlign=60" />
 </p>
 
-<h1 align="center">Hi there, I'm Shruthi 👋</h1>
 
 <p align="center">
   <b>Computer Science Student @ ACE College</b><br>
