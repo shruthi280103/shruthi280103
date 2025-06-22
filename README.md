@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:a855f7&height=220&section=header&text=🌟%20Shruthi%20%%20💡&fontSize=30&fontAlign=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ff80b5,8e44ad&height=200&section=header&text=Hey%20👋%20I'm%20Shruthi!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
-
 
 <h1 align="center">Hi there, I'm Shruthi 👋</h1>
 
