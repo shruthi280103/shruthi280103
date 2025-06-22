@@ -20,7 +20,10 @@
 - 🔭 Currently working on **web development**, exploring **AI/ML**, and contributing to **open source**
 - 🌱 Always learning something new: **ReactJS**, **Django**, and **Machine Learning**
 - 🛠️ I love building **end-to-end full-stack apps** that solve real-world problems
-- ✨ I'm enthusiastic abou
+- ✨ I'm enthusiastic about **clean code**, **teamwork**, and turning ideas into digital products
+- 🎯 Future Goal: To become a skilled **Software Engineer** making impactful tech for the world
+
+
 
 
 fun_fact: "I love challenges and working in teams! 💪"
