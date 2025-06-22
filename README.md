@@ -8,12 +8,13 @@
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" /><p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Goal-Be%20a%20Future%20Tech%20Leader-60A5FA?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-Code%20%2B%20Creativity-F472B6?style=for-the-badge&logo=pencil&logoColor=white" />
 </p>
 
 <p align="center">
-  💭 Dreaming big • 🚀 Learning faster • 💪 Growing stronger daily
+  🎨 Mixing logic and design • ✏️ UI enthusiast • 💡 Creative Coder
 </p>
+
 
 
 ## 💫 About Me
