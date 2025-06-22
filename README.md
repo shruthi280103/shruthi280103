@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=450&lines=Hi+I'm+Shruthi+👩‍💻;Welcome+to+my+GitHub+Profile!;Web+Dev+%7C+AI+%7C+Creative+Builder" />
 </h1>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&multiline=true&width=500&lines=🌸+CSE+Student+%7C+Web+Dev+%7C+AI+Explorer;✨+Let’s+Build+Something+Amazing!">
+</h2>
 
 
 
