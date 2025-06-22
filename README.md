@@ -8,14 +8,12 @@
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-8b5cf6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learner-Always%20Curious-f9a8d4?style=for-the-badge&logo=read-the-docs&logoColor=white" />
 </p>
 
 <p align="center">
-  🎨 Love clean UI • ⚡ ReactJS fan • 💻 Web + AI fusion
+  🌷 Learning by building • 🧠 Into AI/ML • 💗 Passionate about tech & design
 </p>
-
-
 
 
 ## 💫 About Me
