@@ -70,26 +70,24 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 
 ### 🎯 Goals 2025
-<!-- 🚀 Unique Animated Banner -->
+<!-- 🌟 Animated Sparkle Divider Top -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=✨+Shruthi's+2025+Goals+Are+LIT!;👩‍💻+Code+Hard%2C+Dream+Big+%26+Shine;💡+Frontend+%7C+AI%7C+Impact+the+World" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-<!-- 🔥 Stylish Gradient Divider -->
+<!-- 🎯 Centered Goal Title with Sparkles -->
+<h2 align="center">🌟 Shruthi’s 2025 Goals 🌟</h2>
+
+<!-- 📝 Goals List with clean emoji style and animation badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthi280103&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF00C7&center=true&width=600&lines=💻+Become+Frontend+Pro+(React%2C+Tailwind);🤖+Build+Cool+AI+Projects;🌍+Contribute+to+Open+Source+UI%2FUX;🚀+Grab+Tech+Internship;🌸+Keep+Learning+and+Growing" />
 </p>
 
-<!-- 🌈 Custom Goals Section with Icons -->
-<h3 align="center">🌟 Shruthi's Tech Mission 🌟</h3>
-
+<!-- ✨ Cute Animated Divider Bottom -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🌸_Master_Frontend_in_ReactJS_-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖_Create_AI_Projects_with_Python_-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍_Contribute_to_Open_Source_-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Crack_a_Tech_Internship_-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/✨_Learn_Everyday_&_Level_Up_-yellow?style=for-the-badge" />
+  <img src="https://media.tenor.com/T8U3Tn2fxDYAAAAi/stars-sparkle.gif" width="150" />
 </p>
+
 
 
  
