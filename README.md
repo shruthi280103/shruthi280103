@@ -1,9 +1,11 @@
+<!-- Animated Coding Girl GIF Background -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXh3Z3o0eGFoazV4bzdiZW5tdzFjdHg3eDI1ODRoazZ2NGt4aDVmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BHNfhgU63qrks/giphy.gif" width="500" />
 </p>
 
+<!-- Typing Animation with Shruthi’s Name in a unique style -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=420&lines=Hello+I'm+Shruthi+%F0%9F%92%BB;Welcome+to+my+Tech+World!;CSE+%7C+Frontend+%7C+Dream+Big" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=F472B6&center=true&vCenter=true&width=420&lines=Hello,+I'm+Shruthi+💖;Welcome+to+my+Tech+World!;Frontend+Dev+%7C+CSE+Student+%7C+Dream+Builder" />
 </h1>
 
 <p align="center">
