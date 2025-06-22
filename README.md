@@ -8,13 +8,13 @@
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-CSE%20Student-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+</p>
 
-<blockquote align="center">
-  <h3>👩‍💻 Shruthi | CSE @ ACE College</h3>
-  Passionate about <strong>Frontend</strong>, <strong>AI/ML</strong> & <strong>Creative Web Experiences</strong> 💫  
-  <em>— “Learning, Building, and Growing Every Day.”</em>
-</blockquote>
-
+<p align="center">
+  💖 Building Web Apps • 🤖 Exploring AI • 🌱 Always Learning
+</p>
 
 
 ## 💫 About Me
