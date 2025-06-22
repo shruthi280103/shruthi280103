@@ -72,11 +72,18 @@ fun_fact: "I love challenges and working in teams! 💪"
 ### 🎯 Goals 2025
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,F472B6,C084FC&height=120&section=header&text=🎯%20My%20Goals&fontSize=35&fontColor=ffffff&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=✨+Master+Frontend+ReactJS+Skills;🤖+Learn+and+Build+AI+Projects;💻+Contribute+to+Open+Source;🚀+Land+My+Dream+Tech+Internship;🌈+Keep+Growing+and+Glowing!" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Growth-Mindset-ffb6c1?style=for-the-badge&logo=sparkles&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-Full%20Stack%20%26%20AI-bfdbfe?style=for-the-badge&logo=book&logoColor=white" />
   <img src="https://img.shields.io/badge/Vibes-Positive%20+%20Productive-f0abfc?style=for-the-badge&logo=magic&logoColor=white" />
 </p>
-
 
 
  
