@@ -72,11 +72,26 @@ fun_fact: "I love challenges and working in teams! 💪"
 - 🏆 Contribute to Open Source Projects  
 
 ---
+## 📬 Connect With Me
 
-### 📫 Contact Me
+<p align="center">
+  <a href="mailto:shruthishruthi75737@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shruthi-reddy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shruthi280103">
+    🌐 [GitHub Portfolio](https://github.com/shruthi280103)
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-📧 shruthishruthi75737@gmail.com  
-🌐 [GitHub Portfolio](https://github.com/shruthi280103)
+
+
 
 ---
 
