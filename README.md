@@ -83,11 +83,6 @@ fun_fact: "I love challenges and working in teams! 💪"
   <li>🚀 Grab internship in tech 💼</li>
   <li>🌸 Keep learning every day, stay consistent!</li>
 </ul>
-<p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Code%20%7C%20Create%20%7C%20Shine-00ffcc?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20+%20AI-39FF14?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
 
 
  
