@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F87171,FB923C,FACC15,4ADE80,60A5FA,C084FC&text=Hey%20I'm%20Shruthi!%20👾&fontSize=40&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Explore&descAlignY=60&descSize=20&animation=twinkling&height=200" />
-</p
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FBCFE8,C4B5FD,A5F3FC&height=200&section=header&text=Shruthi%20🦋&fontSize=40&fontColor=581C87&desc=Soft%20Girl%20Dev%20Vibes%20✨&descSize=20&descAlignY=65" />
+</p>
+
 
 
 
