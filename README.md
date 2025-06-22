@@ -71,16 +71,20 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 ### 🎯 Goals 2025
 
+<!-- Animated heading -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=8b5cf6,f472b6,ec4899&height=120&section=header&text=My%20Goals%20%F0%9F%8E%AF&fontSize=30&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F9A8D4,F472B6,C084FC&height=120&section=header&text=Shruthi's%20Goals%20✨&fontSize=30&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<!-- Clean goals list -->
+<h3 align="center">Here’s what I’m working toward:</h3>
+
 <ul>
-  <li>✨ Build unique & beautiful websites</li>
-  <li>🤖 Learn AI/ML and apply it creatively</li>
-  <li>🌱 Never stop learning & sharing</li>
-  <li>💼 Get into a dream internship</li>
-</ul>
+  <li>💻 Becoming confident in Frontend Dev (ReactJS + UI magic)</li>
+  <li>🧠 Learning AI & ML concepts with fun mini-projects</li>
+  <li>🌐 Contributing to open-source & building in public</li>
+  <li>🚀 Securing a dream tech internsh
+
  
 
 ---
