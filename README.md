@@ -11,13 +11,17 @@
 ---
 
 
-## 🙋‍♀️ About Me
 
-- 🎓 I'm **Shruthi**, a CSE student at ACE Engineering College.
-- 💡 I’m passionate about **Web Development**, **AI/ML**, and solving real-world problems with code.
-- 🌱 Currently learning **Machine Learning**, **ReactJS**, and exploring **Open Source**.
-- 💻 I enjoy building **full-stack projects**, participating in hackathons, and working on collaborative teams.
-- 🎯 Goal: To become a **Software Engineer** who creates meaningful impact through tech.
+## 💫 About Me
+
+<img align="right" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="240"/>
+
+- 👋 Hi, I’m **Shruthi** — a passionate Computer Science student at **ACE Engineering College**
+- 🔭 Currently working on **web development**, exploring **AI/ML**, and contributing to **open source**
+- 🌱 Always learning something new: **ReactJS**, **Django**, and **Machine Learning**
+- 🛠️ I love building **end-to-end full-stack apps** that solve real-world problems
+- ✨ I'm enthusiastic abou
+
 
 fun_fact: "I love challenges and working in teams! 💪"
 
