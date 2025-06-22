@@ -8,12 +8,13 @@
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" /><p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vibe-Soft%20Techie-ffc0cb?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Interest-AI%20%7C%20ML%20%7C%20Neural%20Nets-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
 <p align="center">
-  👩‍💻 Writing code with creativity • 🌸 Making ideas bloom in HTML & Python
+  🤖 Exploring intelligent systems • 🧠 Learning to build smart solutions
 </p>
+
 
 ## 💫 About Me
 
