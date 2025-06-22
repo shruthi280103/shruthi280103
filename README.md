@@ -1,6 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Hi+I'm+Shruthi+👩‍💻;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=FAE8FF,DBEAFE&height=200&section=header&text=Shruthi%20💗&fontSize=45&fontColor=800080&desc=Welcome%20to%20my%20world%20of%20code!&descSize=18&descAlignY=70" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/header-light.gif" width="60%" />
 </p>
+
 
 
 
