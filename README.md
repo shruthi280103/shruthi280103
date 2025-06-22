@@ -14,7 +14,8 @@
 
 ## 💫 About Me
 
-<img align="right" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="240"/>
+<img align="right" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="240"/>
+
 
 
 
