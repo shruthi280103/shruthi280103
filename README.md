@@ -71,10 +71,17 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 ### 🎯 Goals 2025
 
-- 🚀 Build real-world full-stack projects  
-- 🧠 Learn Machine Learning basics  
-- 🌐 Improve my GitHub & portfolio presence  
-- 🏆 Contribute to Open Source Projects  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=8b5cf6,f472b6,ec4899&height=120&section=header&text=My%20Goals%20%F0%9F%8E%AF&fontSize=30&animation=twinkling&fontColor=ffffff" />
+</p>
+
+<ul>
+  <li>✨ Build unique & beautiful websites</li>
+  <li>🤖 Learn AI/ML and apply it creatively</li>
+  <li>🌱 Never stop learning & sharing</li>
+  <li>💼 Get into a dream internship</li>
+</ul>
+ 
 
 ---
 ## 📬 Connect With Me
