@@ -77,7 +77,7 @@ fun_fact: "I love challenges and working in teams! 💪"
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="160" alt="Unicorn coding animation"/>
+  <img src="https://media.tenor.com/images/ed5f1c5db600082762454f9b823eec06/tenor.gif" width="160" alt="Dancing unicorn" />
 </p>
 
 <div align="center">
@@ -86,9 +86,9 @@ fun_fact: "I love challenges and working in teams! 💪"
 |--------|----------------|
 | 💻 **Master React & Tailwind** | Build stunning responsive UIs |
 | 🤖 **Build AI Projects** | Using Python, ML & APIs |
-| 🚀 **Crack a Top Tech Internship** | With real-world frontend skills |
-| 🎨 **Creative Portfolio** | Aesthetic personal dev site |
-| 🌸 **Stay Consistent** | Keep glowing & learning daily |
+| 🚀 **Secure a top tech internship** | With real-world frontend skills |
+| 🎨 **Create a creative portfolio** | That reflects your personality |
+| 🌸 **Stay consistent** | Keep glowing & learning daily |
 
 </div>
 
