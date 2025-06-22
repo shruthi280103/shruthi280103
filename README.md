@@ -71,29 +71,26 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 ### 🎯 Goals 2025
 
-<!-- Glitch Hacker Style Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=black&height=110&section=header&text=💻%20My%20Goals%202025&fontSize=30&fontColor=39FF14&animation=twinkling" />
-</p>
+<!-- Typing animation header (Goals) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=🎯+My+Goals+2025;💻+Frontend+%7C+AI+%7C+Dream+Big;✨+Shruthi+is+Leveling+Up!" />
+</h1>
 
-<!-- Coding Girl or Tech GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="350" />
-</p>
-
-<h3 align="center">✨ Shruthi’s Tech Dreams ✨</h3>
+<!-- Goals List -->
+<h3 align="center">🌟 Shruthi’s Tech Goals 🌟</h3>
 
 <ul align="center">
-  <li>💻 Master React & Tailwind with live UIs</li>
-  <li>🤖 Build fun AI tools using Python & ML</li>
-  <li>🌍 Contribute to cool Open Source designs</li>
-  <li>🚀 Land my first awesome tech internship</li>
-  <li>🌸 Keep leveling up with curiosity & joy!</li>
+  <li>💻 Master Responsive Frontend (ReactJS + Tailwind)</li>
+  <li>🤖 Build creative AI/ML tools with Python</li>
+  <li>🌍 Collaborate on open source & UI design</li>
+  <li>🚀 Secure an awesome internship</li>
+  <li>🌸 Never stop learning & exploring!</li>
 </ul>
 
+<!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Code%20%7C%20Grow-ff69b4?style=for-the-badge&logo=leaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20+%20AI-93c5fd?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20+%20AI-00ffcc?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 
