@@ -72,11 +72,7 @@ fun_fact: "I love challenges and working in teams! 💪"
 ### 🎯 Goals 2025
 
 <p align="center">
-  <img src="https://img.shields.io/badge/My_Goals-Tech%20Princess%20In%20Progress-%23EC4899?style=for-the-badge&logo=target&logoColor=white" />
-</p>
-
-<p align="center">
-  🎨 UI Wizard • 🤖 AI Dreamer • ✨ Growth Mindset • 🚀 Career Focused
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=✨+Master+Frontend+ReactJS+Skills;🤖+Learn+and+Build+AI+Projects;💻+Contribute+to+Open+Source;🚀+Land+My+Dream+Tech+Internship;🌈+Keep+Growing+and+Glowing!" />
 </p>
 
 
