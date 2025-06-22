@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Hi+I'm+Shruthi+👩‍💻;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=450&lines=Hi+I'm+Shruthi+👩‍💻;Welcome+to+my+GitHub+Profile!;Web+Dev+%7C+AI+%7C+Creative+Builder" />
 </h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/header-light.gif" width="60%" />
-</p>
 
 
 
