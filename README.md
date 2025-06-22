@@ -72,26 +72,30 @@ fun_fact: "I love challenges and working in teams! 💪"
 ### 🎯 Goals 2025
 <h2 align="center">🎯 Goals 2025</h2>
 
+<!-- Animated Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Shruthi's+2025+Tech+Dreams;Frontend+%26+AI+Dev+Goals;Always+Learning+%F0%9F%8C%9F;Glow+Up+%F0%9F%92%A1"/>
+</p>
+
+<!-- Animated Side Background using Lottie -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F373C5&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Shruthi's+2025+Tech+Dreams;Frontend+Dev+%7C+AI+Projects+%7C+Growth+Mindset" />
+  <img src="https://lottie.host/f2503d41-7781-49f2-bd6a-2a5f1e1bfc46/DztJJUlXlN.json" width="200" height="200"/>
 </div>
 
+<!-- Goals List with Emoji and Bold -->
 <div align="center">
-  <img src="https://lottie.host/09e03dd0-d64b-4213-a1ae-0cb4eb3f5b5f/0d43y5YXxN.json" width="300px" height="auto" />
+  <table style="font-size: 18px;">
+    <tr><td>💻 <b>Master React & Tailwind</b> to build stunning UIs</td></tr>
+    <tr><td>🤖 <b>Build AI projects</b> using Python, ML & APIs</td></tr>
+    <tr><td>🚀 <b>Crack a top tech internship</b> with real-world projects</td></tr>
+    <tr><td>🎨 <b>Create aesthetic portfolios</b> that reflect personality</td></tr>
+    <tr><td>🌸 <b>Stay consistent</b>, keep glowing & learning daily!</td></tr>
+  </table>
 </div>
 
-<table align="center">
-  <tr><td>💻 Master React & Tailwind to build stunning UIs</td></tr>
-  <tr><td>🤖 Build cool AI projects using Python & APIs</td></tr>
-  <tr><td>🚀 Crack a top tech internship</td></tr>
-  <tr><td>🎨 Create creative & aesthetic portfolio sites</td></tr>
-  <tr><td>🌸 Stay consistent, keep learning & glowing!</td></tr>
-</table>
-
-<br>
-
+<!-- Footer Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=80&section=footer"/>
 </div>
 
 
