@@ -70,22 +70,48 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 
 ### 🎯 Goals 2025
-<!-- 🌟 Animated Sparkle Divider Top -->
+<!-- 🔥 Animated Glowing Lines on Sides -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/rohitssgithub/rohitssgithub/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-<!-- 🎯 Centered Goal Title with Sparkles -->
-<h2 align="center">🌟 Shruthi’s 2025 Goals 🌟</h2>
+<!-- 🌈 Glowing Goal Box (Styled like a terminal box) -->
+<div align="center">
+  
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30" align="left">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30" align="right">
+  
+  <h2 style="color:#FF00CC;">🎯 My 2025 Goals</h2>
+  
+  <br />
+  
+  <table>
+    <tr>
+      <td>💻</td>
+      <td><b>Master React & Tailwind to build stunning frontend UIs</b></td>
+    </tr>
+    <tr>
+      <td>🤖</td>
+      <td><b>Build AI projects using Python, ML, and APIs</b></td>
+    </tr>
+    <tr>
+      <td>🚀</td>
+      <td><b>Crack an awesome tech internship</b></td>
+    </tr>
+    <tr>
+      <td>🎨</td>
+      <td><b>Create creative and aesthetic portfolio projects</b></td>
+    </tr>
+    <tr>
+      <td>🌸</td>
+      <td><b>Stay consistent, keep learning & glowing!</b></td>
+    </tr>
+  </table>
+</div>
 
-<!-- 📝 Goals List with clean emoji style and animation badges -->
+<!-- ✨ Bottom Motion Bar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF00C7&center=true&width=600&lines=💻+Become+Frontend+Pro+(React%2C+Tailwind);🤖+Build+Cool+AI+Projects;🌍+Contribute+to+Open+Source+UI%2FUX;🚀+Grab+Tech+Internship;🌸+Keep+Learning+and+Growing" />
-</p>
-
-<!-- ✨ Cute Animated Divider Bottom -->
-<p align="center">
-  <img src="https://media.tenor.com/T8U3Tn2fxDYAAAAi/stars-sparkle.gif" width="150" />
+  <img src="https://media.giphy.com/media/xT1Ra4zIY0g6gIf4i8/giphy.gif" width="100%" />
 </p>
 
 
