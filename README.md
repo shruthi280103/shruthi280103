@@ -70,26 +70,25 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 
 ### 🎯 Goals 2025
-<!-- Typing animation header (Goals) -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=420&lines=🎯+My+Goals+2025;💻+Frontend+%7C+AI+%7C+Dream+Big;✨+Shruthi+is+Leveling+Up!" />
-</h1>
-
-<!-- Goals List -->
-<h3 align="center">🌟 Shruthi’s Tech Goals 🌟</h3>
-
-<ul align="center">
-  <li>💻 Master Responsive Frontend (ReactJS + Tailwind)</li>
-  <li>🤖 Build creative AI/ML tools with Python</li>
-  <li>🌍 Collaborate on open source & UI design</li>
-  <li>🚀 Secure an awesome internship</li>
-  <li>🌸 Never stop learning & exploring!</li>
-</ul>
-
-<!-- Badges -->
+<!-- 🚀 Unique Animated Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Learn%20%7C%20Code%20%7C%20Grow-ff69b4?style=for-the-badge&logo=leaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Frontend%20+%20AI-00ffcc?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=✨+Shruthi's+2025+Goals+Are+LIT!;👩‍💻+Code+Hard%2C+Dream+Big+%26+Shine;💡+Frontend+%7C+AI%7C+Impact+the+World" />
+</p>
+
+<!-- 🔥 Stylish Gradient Divider -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruthi280103&layout=compact&theme=radical&langs_count=8&hide_border=true" />
+</p>
+
+<!-- 🌈 Custom Goals Section with Icons -->
+<h3 align="center">🌟 Shruthi's Tech Mission 🌟</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌸_Master_Frontend_in_ReactJS_-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Create_AI_Projects_with_Python_-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_Contribute_to_Open_Source_-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Crack_a_Tech_Internship_-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✨_Learn_Everyday_&_Level_Up_-yellow?style=for-the-badge" />
 </p>
 
 
