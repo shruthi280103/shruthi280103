@@ -70,50 +70,29 @@ fun_fact: "I love challenges and working in teams! 💪"
 
 
 ### 🎯 Goals 2025
-<!-- 🔥 Animated Glowing Lines on Sides -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohitssgithub/rohitssgithub/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
+<h2 align="center">🎯 Goals 2025</h2>
 
-<!-- 🌈 Glowing Goal Box (Styled like a terminal box) -->
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30" align="left">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="30" align="right">
-  
-  <h2 style="color:#FF00CC;">🎯 My 2025 Goals</h2>
-  
-  <br />
-  
-  <table>
-    <tr>
-      <td>💻</td>
-      <td><b>Master React & Tailwind to build stunning frontend UIs</b></td>
-    </tr>
-    <tr>
-      <td>🤖</td>
-      <td><b>Build AI projects using Python, ML, and APIs</b></td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td><b>Crack an awesome tech internship</b></td>
-    </tr>
-    <tr>
-      <td>🎨</td>
-      <td><b>Create creative and aesthetic portfolio projects</b></td>
-    </tr>
-    <tr>
-      <td>🌸</td>
-      <td><b>Stay consistent, keep learning & glowing!</b></td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F373C5&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Shruthi's+2025+Tech+Dreams;Frontend+Dev+%7C+AI+Projects+%7C+Growth+Mindset" />
 </div>
 
-<!-- ✨ Bottom Motion Bar -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT1Ra4zIY0g6gIf4i8/giphy.gif" width="100%" />
-</p>
+<div align="center">
+  <img src="https://lottie.host/09e03dd0-d64b-4213-a1ae-0cb4eb3f5b5f/0d43y5YXxN.json" width="300px" height="auto" />
+</div>
 
+<table align="center">
+  <tr><td>💻 Master React & Tailwind to build stunning UIs</td></tr>
+  <tr><td>🤖 Build cool AI projects using Python & APIs</td></tr>
+  <tr><td>🚀 Crack a top tech internship</td></tr>
+  <tr><td>🎨 Create creative & aesthetic portfolio sites</td></tr>
+  <tr><td>🌸 Stay consistent, keep learning & glowing!</td></tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 
  
