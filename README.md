@@ -97,13 +97,12 @@ fun_fact: "I love challenges and working in teams! 💪"
 ---
 ---
 ⭐️ Thank you for visiting my profile!
----
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5G/giphy.gif" width="300" />
 </p>
 
 <p align="center">
-  <b>Happy Coding! 💻<br>Let’s connect & collaborate ✨</b>
+  <b>Thank you for visiting! 🌟<br>See you around GitHub, Shruthi 🩵</b>
 </p>
 
 
