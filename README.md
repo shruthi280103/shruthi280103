@@ -5,17 +5,16 @@
 
 <!-- 👩‍💻 Coding Girl Aesthetic GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" /><p align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Learner-Always%20Curious-f9a8d4?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+ <p align="center">
+  <img src="https://img.shields.io/badge/Tech_Stack-React%20%7C%20Django%20%7C%20Python-0ea5e9?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
 <p align="center">
-  🌷 Learning by building • 🧠 Into AI/ML • 💗 Passionate about tech & design
+  🔧 Full-stack enthusiast • 🧬 AI explorer • 🚀 Building cool things
 </p>
-
-
+   
 ## 💫 About Me
 
 <img align="right" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="240"/>
