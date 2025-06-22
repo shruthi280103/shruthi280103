@@ -98,11 +98,11 @@ fun_fact: "I love challenges and working in teams! 💪"
 ---
 ⭐️ Thank you for visiting my profile!
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="260" />
 </p>
 
 <p align="center">
-  <b>Thanks for dropping by! 💻<br>Let’s code the future together 🌐</b>
+  <b>Thanks for visiting 🌈<br>Keep shining and stay creative! 🎨</b>
 </p>
 
 
