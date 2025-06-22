@@ -7,14 +7,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="400px" /><p align="center">
 
- <p align="center">
-  <img src="https://img.shields.io/badge/Tech_Stack-React%20%7C%20Django%20%7C%20Python-0ea5e9?style=for-the-badge&logo=code&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-CSE%20@%20ACE%20College-10b981?style=for-the-badge&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passion-Web%20Dev%20%26%20AI-facc15?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe-Creative%20&%20Curious-ec4899?style=for-the-badge&logo=sparkles&logoColor=white" />
 </p>
 
-<p align="center">
-  🔧 Full-stack enthusiast • 🧬 AI explorer • 🚀 Building cool things
-</p>
-   
 ## 💫 About Me
 
 <img align="right" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="240"/>
