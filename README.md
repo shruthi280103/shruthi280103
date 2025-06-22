@@ -51,12 +51,18 @@ fun_fact: "I love challenges and working in teams! 💪"
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruthi280103&show_icons=true&theme=gradient&border_radius=10&hide_title=false&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruthi280103&theme=gradient&hide_border=false&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shruthi280103&show_icons=true&theme=radical&border_radius=15&include_all_commits=true&count_private=true&hide_title=false&title_color=fff&icon_color=facc15" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shruthi280103&theme=radical&hide_border=false&border_radius=15" height="180" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruthi280103&bg_color=0d1117&color=3b82f6&line=9333ea&point=facc15&area=true&hide_border=true" />
+</p>
+
 
 ### 🎯 Goals 2025
 
