@@ -69,27 +69,22 @@ fun_fact: "I love challenges and working in teams! 💪"
 </p>
 
 
-### 🎯 Goals 2025
-<!-- 🌈 Gradient Animated Header -->
+
+# 🎯 Goals 2025
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=tada&color=9333ea,8b5cf6,6366f1&height=150&section=header&text=Shruthi's+Goals+2025&fontSize=40&fontColor=ffffff" />
+  <!-- reliable unicorn animation -->
+  <img src="https://media.tenor.com/CM8y2e6XURcAAAAC/unicorn-dance.gif" width="120" alt="Unicorn Dance"/>
 </p>
 
-<!-- 🦄 Unicorn GIF Animation -->
 <p align="center">
-  <img src="https://media.tenor.com/images/9c47c3f4f1f0f10d23cb12e8d0ee865d/tenor.gif" width="180" alt="Unicorn Dancing"/>
+  <!-- each goal as a static badge with its own color -->
+  <img src="https://img.shields.io/badge/💻_Master_React_&_Tailwind-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/🤖_Build_AI_Projects-FFC300?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/🚀_Secure_Tech_Internship-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨_Creative_Portfolio-E91E63?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌸_Stay_Learning_&_Growing-F48FB1?style=for-the-badge&logo=education&logoColor=white" />
 </p>
-
-<!-- 🌟 Colored Goals List -->
-<h3 align="center"><span style="color:#FF69B4">🎯 My 2025 Tech Goals</span></h3>
-
-<ul align="center">
-  <li><span style="color:#FBBF24">💻 Master <b>React & Tailwind</b> to build stunning UIs</span></li>
-  <li><span style="color:#22D3EE">🤖 Build <b>AI projects</b> using Python & ML</span></li>
-  <li><span style="color:#10B981">🚀 Secure a top tech internship</span></li>
-  <li><span style="color:#E879F9">🎨 Create a creative portfolio</span></li>
-  <li><span style="color:#F472B6">🌸 Stay consistent, keep learning & glowing!</span></li>
-</ul>
 
 
 ---
